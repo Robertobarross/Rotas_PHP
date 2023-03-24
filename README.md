@@ -1,2 +1,2 @@
 # Rotas_PHP
- Rotas dinâmicas com PHP. Sistema de rotas simples bem funcional!
+ Sistema de Rotas Dinâmicas com PHP, simples e bastante funcional!
